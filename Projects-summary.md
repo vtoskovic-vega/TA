@@ -1,3 +1,9 @@
+# Ongoing - 8RX
+
+Designing multi-level ETL process for large pharma company - diagrams can be found here (https://drive.google.com/file/d/17zZIbW1qOJ3ALqSXdYi_aoz-StgLPg5_/view?usp=sharing) (opened for Vega accounts). 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # ReedAI: Architectural Overview
 
 **Prepared by:** Lead BE Developer
